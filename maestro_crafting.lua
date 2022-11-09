@@ -1,0 +1,1 @@
+Removed weapon crafting restrictions
