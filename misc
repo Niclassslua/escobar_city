@@ -1,2 +1,3 @@
 test
 fixed 2 broken interiors
+set "sv_pureLevel" to 1
